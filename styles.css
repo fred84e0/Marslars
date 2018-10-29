@@ -1,0 +1,162 @@
+#menu_background {
+    background-image: url("SVG/Baggrund_alt.svg");
+    background-size: cover;
+    width: 100vw;
+    height: 56vw;
+    margin: auto;
+    position: relative;
+    z-index: 0;
+}
+
+#menu_foreground {
+    background-image: url("SVG/mellemgrund_spil.svg");
+    background-size: cover;
+    width: 100vw;
+    height: 56vw;
+    margin: auto;
+    position: relative;
+    z-index: 0;
+}
+
+#fig0 {
+
+    background-image: url("SVG/daarlig_skrue.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 4vw;
+    height: 10vw;
+    position: absolute;
+    top: 2vw;
+    left: 4vw;
+    z-index: -1;
+}
+
+#fig1 {
+
+    background-image: url("SVG/daarlig_skrue.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 4vw;
+    height: 10vw;
+    position: absolute;
+    top: 23vw;
+    left: 59vw;
+    z-index: -1;
+}
+
+#fig2 {
+
+    background-image: url("SVG/Artboard%205.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 4vw;
+    height: 10vw;
+    position: absolute;
+    top: 35vw;
+    left: 80vw;
+    z-index: -1;
+}
+
+#fig3 {
+
+    background-image: url("SVG/Artboard%205.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 4vw;
+    height: 10vw;
+    position: absolute;
+    top: 15vw;
+    left: 40vw;
+    z-index: -1;
+}
+
+#fig4 {
+
+    background-image: url("SVG/Artboard%205.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 4vw;
+    height: 10vw;
+    position: absolute;
+    top: 42vw;
+    left: 20vw;
+    z-index: -1;
+}
+
+#fig5 {
+
+    background-image: url("SVG/Artboard%205.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 4vw;
+    height: 10vw;
+    position: absolute;
+    top: 17vw;
+    left: 8vw;
+    z-index: -1;
+}
+
+
+#fig6 {
+
+    background-image: url("SVG/daarlig_skrue.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 4vw;
+    height: 10vw;
+    position: absolute;
+    top: 7vw;
+    left: 80vw;
+    z-index: -1;
+}
+
+#fig5 {
+
+    background-image: url("SVG/ilt_5.svg");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    width: 4vw;
+    height: 11vw;
+    position: absolute;
+    top: 17vw;
+    left: 77vw;
+    z-index: -1;
+}
+
+#points {
+    background-image: url("SVG/point.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 20vw;
+    height: 13vw;
+    position: absolute;
+    top: 42vw;
+    left: 2vw;
+    z-index: -1;
+
+}
+
+#time {
+
+    background-image: url("SVG/tid.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 11vw;
+    height: 14vw;
+    position: absolute;
+    top: 42vw;
+    left: 86vw;
+    z-index: -1;
+}
+
+#energy {
+    background-image: url("SVG/ilt_2.svg");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    width: 15vw;
+    height: 40vw;
+    position: absolute;
+    top: 1vw;
+    left: 87vw;
+    z-index: -1;
+}
